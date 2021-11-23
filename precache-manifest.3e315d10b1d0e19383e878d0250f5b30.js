@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c7946914be2b6f2c44b2",
+    "revision": "7d103fce405093a367cc",
     "url": "/youtube_game/static/css/main.27a3ceb6.chunk.css"
   },
   {
-    "revision": "c7946914be2b6f2c44b2",
-    "url": "/youtube_game/static/js/main.c7946914.chunk.js"
+    "revision": "7d103fce405093a367cc",
+    "url": "/youtube_game/static/js/main.7d103fce.chunk.js"
   },
   {
     "revision": "9b3e7be162e3787f7bcd",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/youtube_game/static/media/bootstrap-icons.7fb23f3b.woff"
   },
   {
-    "revision": "301d6d94c01eaeabbc97cdc9b6c56fcd",
+    "revision": "79d13485c365dd5d653907469c67a35b",
     "url": "/youtube_game/index.html"
   }
 ];
